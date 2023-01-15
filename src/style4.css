@@ -1,0 +1,37 @@
+.sidebar2 {
+    
+    width: 90px;
+    right: 20px;
+    top: 410px;
+    font-size: 12px;
+    line-height: 16px;
+    color: rgb(51, 51, 51);
+    letter-spacing: -0.3px;
+    z-index: 1;
+    position: sticky;
+    margin-left: 95%;
+    
+    
+}
+.css-bkdy9y {
+    width: 80px;
+    height: 120px;
+    margin-bottom: 7px;
+}
+.css-hd6zoq e1tjwjt910{
+    width: 80px;
+    border-width: 1px 1px 0px;
+    border-style: solid solid none;
+    border-top-color: rgb(221, 221, 221);
+    border-right-color: rgb(221, 221, 221);
+    border-left-color: rgb(221, 221, 221);
+    border-image: initial;
+    border-bottom-color: initial;
+    background-color: rgb(255, 255, 255);
+}
+.css-1fk9s65 {
+    height: 29px;
+    padding-top: 5px;
+    border-bottom: 1px solid rgb(221, 221, 221);
+    text-align: center;
+}

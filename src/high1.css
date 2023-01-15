@@ -1,0 +1,31 @@
+.css-14zv390 {
+    position: relative;
+    text-align: center;
+    transition: margin 0.4s linear 0s;
+    min-width: 1040px;
+    border-bottom: 0px;
+    background: rgb(95, 0, 128);
+    margin-top: 0px;
+}
+.css-aung27 {
+    display: block;
+    font-size: 14px;
+    line-height: 42px;
+    color: rgb(255, 255, 255);
+    height: 42px;
+    text-decoration: none;
+}
+.css-aung27 b {
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+.css-e2fncp {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 42px;
+    height: 42px;
+    background-position: 0px 0px;
+    background-size: 42px 42px;
+    background-image: url(https://res.kurly.com/pc/ico/1908/ico_close_fff_84x84.png);
+}
